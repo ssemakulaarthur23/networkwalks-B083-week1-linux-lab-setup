@@ -77,3 +77,6 @@ The laboratory is built using a virtual machine running Kali Linux.
         ▼              ▼              ▼
      Linux         Networking      Security
    Administration    Tools          Tools
+
+# SCREENSHOTS
+![](Screenshot 2026-09-16 091305.png)

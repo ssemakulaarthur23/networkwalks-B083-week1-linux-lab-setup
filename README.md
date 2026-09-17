@@ -92,6 +92,7 @@ It can be used for activities such as:
 - Web security testing
 - Exploitation practice
 ## Lab setup
+
 https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linuxlab-setup/blob/main/Screenshot%202026-09-16%20093904.png
 
 # 🪜 Lab building Procedure
@@ -207,3 +208,5 @@ This provides a known-good recovery point for future cybersecurity exercises.
 I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
 
 ---
+Project information
+Program Name: Cybersecurity at Networktalks |Week 01| Project: Cyberecurity & Pentesting Labsetup| Repository: github

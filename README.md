@@ -22,9 +22,10 @@ controlled laboratory exercises and document the knowledge gained along the way.
 
 **Student:** Ssemakula Arthur  
 **Field:** Cyber Security  
-**Institution:** ISBAT University  
+**Institution:** Networktalks 
 **Platform:** Kali Linux  
 **Virtualization:** Oracle VirtualBox 
+
 **linkedIn:** www.linkedin.com/in/ssemakula-arthur-614524405
  
 This laboratory is designed as a personal and academic environment for
@@ -95,6 +96,13 @@ It can be used for activities such as:
 
 https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linuxlab-setup/blob/main/Screenshot%202026-09-16%20093904.png
 
+```text
+Clean Kali - Network Setup
+```
+## Lab setup
+
+https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linuxlab-setup/blob/main/Screenshot%202026-09-16%20093904.png
+
 # 🪜 Lab building Procedure
 
 ##  Install 7-Zip
@@ -119,6 +127,7 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linux-lab-setup/blob/main/Screenshot%202026-09-17%20005018.png
+
 NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
 This will allow future attacker and target VMs to communicate within the lab.
@@ -128,7 +137,7 @@ The Kali Linux network configuration was checked and configured with a consisten
 
 Example configuration:
 
-```text
+
 IP Address: 10.0.0.2
 Subnet Mask: 255.255.255.0
 Gateway: 10.0.0.1
@@ -140,11 +149,6 @@ https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linux-lab-setup/blo
 After completing the initial configuration, a VirtualBox snapshot was created.
 
 Example snapshot name:
-
-```text
-Clean Kali - Network Setup
-```
-
 The snapshot represents the clean baseline of the laboratory.
 
 https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linux-lab-setup/blob/main/Screenshot%202026-09-16%20092218.png

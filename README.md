@@ -84,6 +84,8 @@ The laboratory is built using a virtual machine running Kali Linux.
      Linux         Networking      Security
    Administration    Tools          Tools
 
+
+```
 ## 🛡️ Purpose of the Lab
 
 The lab provides an isolated and controlled environment for cybersecurity learning and authorized security testing.
@@ -96,13 +98,7 @@ It can be used for activities such as:
 - Packet analysis
 - Web security testing
 - Exploitation practice
-## Lab setup
 
-https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linuxlab-setup/blob/main/Screenshot%202026-09-16%20093904.png
-
-```text
-Clean Kali - Network Setup
-```
 ## Lab setup
 
 https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linuxlab-setup/blob/main/Screenshot%202026-09-16%20093904.png
@@ -120,6 +116,7 @@ https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linuxlab-setup/blob
 
 VirtualBox was installed as the hypervisor.
 
+Clean Kali - Network Setup
 
 ##  Create the NAT Network
 

@@ -20,10 +20,14 @@ controlled laboratory exercises and document the knowledge gained along the way.
 
 ## 👨‍💻 About the Project
 
-**Student:** Ssemakula Arthur  
+**Student:** Ssemakula Arthur 
+
 **Field:** Cyber Security  
-**Institution:** Networktalks 
+
+**Institution:** Networktalks
+
 **Platform:** Kali Linux  
+
 **Virtualization:** Oracle VirtualBox 
 
 **linkedIn:** www.linkedin.com/in/ssemakula-arthur-614524405
